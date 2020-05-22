@@ -1,0 +1,11 @@
+Abuelo
+Abuela
+Mamá 
+Papá 
+Hermano
+Hermana
+Yo
+Perro1
+Perro2
+Gato1
+Perico
