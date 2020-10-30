@@ -16,10 +16,6 @@ def division():
   else:
     while numero2 == 0:
       print('El denominador debe ser diferente de 0')
-      nuevoNumero = float(input('Ingresa otro número: '))
-      if(nuevoNumero != 0):
-        numero2 = nuevoNumero
-        division = numero1 / numero2
-        return division
-      else:
-        numero2 = 0
+      numero2 = float(input('Ingresa otro número: '))
+    division = numero1 / numero2
+    return division
